@@ -1,0 +1,13 @@
+target
+/logs/*
+logs/*
+/log/*
+log/*
+.DS_Store
+idea
+.idea/*
+.idea/axon-go.iml
+*.iml
+~/*
+/target/*
+/bin/*
